@@ -71,21 +71,7 @@ Server	XAMPP / Apache
 Tools	VS Code, phpMyAdmin, Figma
 🚀 Installation Guide
 
-Download or clone the project repository.
 
-Move the project folder into your htdocs directory (if using XAMPP).
-
-Start Apache and MySQL in the XAMPP Control Panel.
-
-Open phpMyAdmin and create a database named leave_system.
-
-Import the file leave_system.sql included in the project folder.
-
-Update database credentials in config.php if necessary.
-
-Run the project in your browser:
-
-http://localhost/leave_system/
 
 🧾 System Modules
 Module	Description
@@ -115,3 +101,4 @@ Subject: Web Development 2
 
 Lorem Ipsun
 Lorem Ipsum
+
